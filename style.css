@@ -1,0 +1,15 @@
+#kirim{
+	background-image: url("asset/kirim.png");
+	height: 120px;
+	background-repeat: no-repeat;
+	width: auto;
+}
+#terima{
+	background-image: url("asset/terima.png");
+	height: 120px;
+	background-repeat: no-repeat;
+	width: auto;
+}
+.container-fluid{
+	background-image: url("asset/group 9.png");
+}
